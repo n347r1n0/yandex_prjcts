@@ -2,4 +2,4 @@
 
 Событийная аналитика, сегментация пользователей, статистическое обоснование.
 
-Ссылка на презентацию: https://disk.yandex.ru/i/-XtZNIYfcNVbaw
+Ссылка на презентацию: https://disk.yandex.ru/i/QkwKbYqpaLl_kA
